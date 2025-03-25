@@ -34,7 +34,7 @@ Me chamo Lais Pimentel, tenho 29 anos e sou natural de Recife. Formada em Gestã
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=laispimentel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -42,7 +42,7 @@ Me chamo Lais Pimentel, tenho 29 anos e sou natural de Recife. Formada em Gestã
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=laispimentel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
