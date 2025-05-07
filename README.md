@@ -41,6 +41,26 @@ Atualmente, sou **Campus Expert na DIO**, onde compartilho conhecimento, organiz
 
 ---
 
+|Cursos                                  |Horas|Tecnologia|Certificado|
+|----------------------------------------|----|-----------|------------------------------------------------------------|
+|Formação Lógica de programação          |41 h|       Lógica      |[Certificado](https://www.dio.me/certificate/GIO8J24O/share)|
+|Formação Linux FUndamentos              |23 h|Sistema operacional|[Certificado](https://www.dio.me/certificate/Y6S1AY31/share)|
+|Github Certification                    |10 h|     Git e Github  |[Certificado]()|
+|Chat GPT para DEVS                      |18 h|         IA        |[Certificado]()|
+|Microsoft 50 anos - Prompts inteligentes|15 h|         IA        |[Certificado](https://www.dio.me/certificate/T8RURFDI/share)|
+|Fundamentos de engenharia de prompts    |14 h|         IA        |[Certificado](https://www.dio.me/certificate/BEMTFHMP/share)|
+|Fundamentos de Inteligência Artificial  |10 h|         IA        |[Certificado](https://www.dio.me/certificate/IYBEREF5/share)|
+|HTML Developer                          |21 h|      Font-end     |[Certificado]()|
+|CSS Developer                           |43 h|      Font-end     |[Certificado]()|
+|JavaScript Developer                    |39 h|      Font-end     |[Certificado]()|
+|Angular Developer                       |37 h|      Font-end     |[Certificado]()|
+|Python Fundamentals                     |26 h|      Back-end     |[Certificado]()|
+|Java Fundamentals                       |35 h|      Back-end     |[Certificado]()|
+|Node.js Fundamentals                    |30 h|     Full-stack    |[Certificado]()|
+|Fullstack Typescript Developer          |44 h|     Full-stack    |[Certificado]()|
+|SQL database Specialist                 |72 h|   Banco de dados  |[Certificado]()|
+---
+
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
